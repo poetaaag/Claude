@@ -1,0 +1,6 @@
+Contact: mailto:dalbongiulia@blu.it
+Contact: https://giuliadalbon.com/#contact
+Expires: 2027-04-20T00:00:00.000Z
+Preferred-Languages: it, fr, en
+Canonical: https://giuliadalbon.com/.well-known/security.txt
+Policy: https://giuliadalbon.com/privacy.html
